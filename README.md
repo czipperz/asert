@@ -1,4 +1,4 @@
-#Idea
+#ASERT Keyboard Layout
 
 We want to take the QWERTY keyboard and vertically realign it to be more efficient.
 
@@ -32,13 +32,13 @@ z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
 
 ###So what changed?
 
-* d and e		switched places
-* f and r		switched places
-* g and t		switched places
-* h, n, and y	switched places
-* m, u, and j	switched places
-* k and i		switched places
-* l and o		switched places
+* d and e		switched places (`e d c` => `d e c`)
+* f and r		switched places (`r f v` => `f r v`)
+* g and t		switched places (`t g b` => `g t b`)
+* h, n, and y	switched places (`y h n` => `h n y`)
+* m, u, and j	switched places (`u j m` => `m u j`)
+* k and i		switched places (`i k ,` => `k i ,`)
+* l and o		switched places (`o l .` => `l o .`)
 
 The first two columns and the sixth are still the same!
 
