@@ -24,9 +24,11 @@ Vertical letter groups
 
 ##ASERT
 
-	q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m</i></b> <b><i>k</i></b> <b><i>l</i></b> p
-	a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>n</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
-	z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
+<pre>
+q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m</i></b> <b><i>k</i></b> <b><i>l</i></b> p
+a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>n</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
+z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
+</pre>
 
 ###So what changed?
 
