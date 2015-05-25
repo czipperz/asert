@@ -25,7 +25,7 @@ Vertical letter groups
 ##Lazy Qwerty
 
 <pre>
-q w <b>d</b> c g y u m l p
- a s e r t h n i o ;
-  z x f v b j k , .
+q w <b>d</b> <b>c</b> <b>g</b> y u <b>m</b> <b>l</b> p
+ a s <b>e</b> <b>r</b> <b>t</b> h <b>n</b> <b>i</b> <b>o</b> ;
+  z x <b>f</b> v b <b>j</b> <b>k</b> , .
 </pre>
