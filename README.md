@@ -13,19 +13,30 @@ Most common typed words:
 ##Normal Qwerty
 
 	q w e r t y u i o p
-	 a s d f g h j k l ;
-	  z x c v b n m , .
+	a s d f g h j k l ;
+	z x c v b n m , . /
 
 ##Groups
 
 Vertical letter groups
 
-	qa  wsz  edx  rfc  tgv  yhb  ujn  ikm  ol,  p;.
+	qaz  wsx  edc  rfv  tgb  yhn  ujm  ik,  ol.  p;/
 
-##Lazy Qwerty
+##ASERT
 
-<pre>
-q w <b><i>d</i></b> <b><i>c</i></b> <b><i>g</i></b> y u <b><i>m</i></b> <b><i>l</i></b> p
- a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> h <b><i>n</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
-  z x <b><i>f</i></b> v b <b><i>j</i></b> <b><i>k</i></b> , .
-</pre>
+	q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m</i></b> <b><i>k</i></b> <b><i>l</i></b> p
+	a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>n</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
+	z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
+
+###So what changed?
+
+* d and e switched places
+* c, r, and f switched places
+* g and t switched places
+* n and j switched places
+* m, i, and k switched places
+* o and l switched places
+
+The first two columns and the sixth are still the same!
+
+**CAPS LOCK IS BOUND TO ESCAPE (because vim)!!!**
