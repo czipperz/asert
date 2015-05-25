@@ -12,9 +12,11 @@ Most common typed words:
 
 ##Normal Qwerty
 
-	q w e r t y u i o p
-	a s d f g h j k l ;
-	z x c v b n m , . /
+	Esc F1 F2 F3 ...
+	``~ 1 2 3 4 5 6 7 8 9 0 - = BS
+	Tab q w e r t y u i o p
+	CpL a s d f g h j k l ;
+	Shf z x c v b n m , . /
 
 ##Groups
 
@@ -25,9 +27,11 @@ Vertical letter groups
 ##ASERT
 
 <pre>
-q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m</i></b> <b><i>k</i></b> <b><i>l</i></b> p
-a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>n</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
-z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
+CpL F1 F2 F3 ...
+``~ 1 2 3 4 5 6 7 8 9 0 - = BS
+Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m</i></b> <b><i>k</i></b> <b><i>l</i></b> p
+<b><i>Esc</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>n</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
+Shf z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
 </pre>
 
 ###So what changed?
@@ -39,7 +43,6 @@ z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
 * m, u, and j	switched places (`u j m` => `m u j`)
 * k and i		switched places (`i k ,` => `k i ,`)
 * l and o		switched places (`o l .` => `l o .`)
+* CapsLock and Escape	switched places
 
 The first two columns and the special characters are still the same!
-
-**CAPS LOCK IS BOUND TO ESCAPE (because vim)!!!**
