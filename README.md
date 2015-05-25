@@ -40,6 +40,6 @@ z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
 * k and i		switched places (`i k ,` => `k i ,`)
 * l and o		switched places (`o l .` => `l o .`)
 
-The first two columns and the sixth are still the same!
+The first two columns and the special characters are still the same!
 
 **CAPS LOCK IS BOUND TO ESCAPE (because vim)!!!**
