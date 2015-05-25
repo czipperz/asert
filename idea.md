@@ -25,7 +25,7 @@ Vertical letter groups
 ##Lazy Qwerty
 
 <pre>
-q w <b style="color:red">d</b> <b style="color:red">c</b> <b style="color:red">g</b> y u <b style="color:red">m</b> <b style="color:red">l</b> p
- a s <b style="color:red">e</b> <b style="color:red">r</b> <b style="color:red">t</b> h <b style="color:red">n</b> <b style="color:red">i</b> <b style="color:red">o</b> ;
-  z x <b style="color:red">f</b> v b <b style="color:red">j</b> <b style="color:red">k</b> , .
+q w <span style="color:red">d</span> <span style="color:red">c</span> <span style="color:red">g</span> y u <span style="color:red">m</span> <span style="color:red">l</span> p
+ a s <span style="color:red">e</span> <span style="color:red">r</span> <span style="color:red">t</span> h <span style="color:red">n</span> <span style="color:red">i</span> <span style="color:red">o</span> ;
+  z x <span style="color:red">f</span> v b <span style="color:red">j</span> <span style="color:red">k</span> , .
 </pre>
