@@ -10,6 +10,8 @@ Most common typed words:
 
 	e t a o i n s h r d l c u m w f g y p b v k j x q z
 
+![Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/English_letter_frequency_%28frequency%29.svg/640px-English_letter_frequency_%28frequency%29.svg.png)
+
 ##Normal Qwerty
 
 	Esc F1 F2 F3 ...
