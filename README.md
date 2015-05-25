@@ -32,12 +32,13 @@ z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
 
 ###So what changed?
 
-* d and e switched places
-* c, r, and f switched places
-* g and t switched places
-* n and j switched places
-* m, i, and k switched places
-* o and l switched places
+* d and e		switched places
+* f and r		switched places
+* g and t		switched places
+* h, n, and y	switched places
+* m, u, and j	switched places
+* k and i		switched places
+* l and o		switched places
 
 The first two columns and the sixth are still the same!
 
