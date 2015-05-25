@@ -28,4 +28,4 @@ Vertical letter groups
 
 <code> a s e r t h n i o ;</code>
 
-<code>  z x f v b j k , .</code>
+<code><pre> </pre> z x f v b j k , .</code>
