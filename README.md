@@ -4,14 +4,6 @@ We want to take the QWERTY keyboard and vertically realign it to be more efficie
 
 Middle row is prioritized over top and top over bottom.
 
-##Frequencies
-
-Most common typed words:
-
-	e t a o i n s h r d l c u m w f g y p b v k j x q z
-
-![Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/English_letter_frequency_%28frequency%29.svg/640px-English_letter_frequency_%28frequency%29.svg.png)
-
 ##Normal Qwerty
 
 	Esc F1 F2 F3 ...
@@ -22,11 +14,28 @@ Most common typed words:
 
 ##Groups
 
-Vertical letter groups
+Vertical letter groups. We will use these to change things up.
 
 	qaz  wsx  edc  rfv  tgb  yhn  ujm  ik,  ol.  p;/
 
+#Layouts
+
+There are three layouts.
+
+* `asert`		takes the most common letters in each columns and puts them on the home row. Then the second most common goes in the top row.
+It is explained more below.
+* `asert-pure`	swaps the top and middle rows (includes semicolon)
+* `asert-swap`	swaps the top and middle rows (DOES NOT INCLUDE a & s, q & w, ; & p)
+
 ##ASERT
+
+###Frequencies
+
+Most common typed words:
+
+	e t a o i n s h r d l c u m w f g y p b v k j x q z
+
+![Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/English_letter_frequency_%28frequency%29.svg/640px-English_letter_frequency_%28frequency%29.svg.png)
 
 <pre>
 CpL F1 F2 F3 ...
@@ -36,7 +45,7 @@ Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m<
 Shf z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
 </pre>
 
-###So what changed?
+####So what changed?
 
 * d and e		switched places (`e d c` => `d e c`)
 * f and r		switched places (`r f v` => `f r v`)
