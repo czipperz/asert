@@ -6,8 +6,6 @@ Middle row is prioritized over top and top over bottom.
 
 ##Normal Qwerty
 
-	Esc F1 F2 F3 ...
-	``~ 1 2 3 4 5 6 7 8 9 0 - = BS
 	Tab q w e r t y u i o p
 	CpL a s d f g h j k l ;
 	Shf z x c v b n m , . /
@@ -22,8 +20,8 @@ Vertical letter groups. We will use these to change things up.
 
 There are three layouts.
 
-* `asert`		takes the most common letters in each columns and puts them on the home row. Then the second most common goes in the top row.
-It is explained more below.
+* `asert`		takes the most common letters in each columns and puts them on the home row. Then the second
+most common goes in the top row. It is explained more below.
 * `asert-pure`	swaps the top and middle rows (includes semicolon)
 * `asert-swap`	swaps the top and middle rows (DOES NOT INCLUDE a & s, q & w, ; & p)
 
@@ -37,13 +35,17 @@ Most common typed words:
 
 ![Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/English_letter_frequency_%28frequency%29.svg/640px-English_letter_frequency_%28frequency%29.svg.png)
 
+However with the populization of the QWERTY keyboard it makes more sense to keep more keys consistent rather than reih
+
 <pre>
-CpL F1 F2 F3 ...
-``~ 1 2 3 4 5 6 7 8 9 0 - = BS
-Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> <b><i>h</i></b> <b><i>m</i></b> <b><i>k</i></b> <b><i>l</i></b> p
-<b><i>Esc</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>n</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> ;
-Shf z x c v b <b><i>y</i></b> <b><i>j</i></b> , . /
+Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> y <b><i>j</i></b> <b><i>k</i></b> <b><i>l</i></b> <b><i>;</i></b>
+<b><i>DEL</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>h</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
+Shf z x c v b n m , . /
 </pre>
+
+qwdfgyjkl;
+aserthuiop
+zxcvbnm
 
 ####So what changed?
 
