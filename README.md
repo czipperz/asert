@@ -35,27 +35,23 @@ Most common typed words:
 
 ![Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/English_letter_frequency_%28frequency%29.svg/640px-English_letter_frequency_%28frequency%29.svg.png)
 
-However with the populization of the QWERTY keyboard it makes more sense to keep more keys consistent rather than reih
+However with the populization of the QWERTY keyboard it makes more sense to keep more keys consistent rather than radically changing it.
 
 <pre>
 Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> y <b><i>j</i></b> <b><i>k</i></b> <b><i>l</i></b> <b><i>;</i></b>
-<b><i>DEL</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> <b><i>h</i></b> <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
+<b><i>DEL</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> h <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
 Shf z x c v b n m , . /
 </pre>
 
-qwdfgyjkl;
-aserthuiop
-zxcvbnm
-
 ####So what changed?
 
-* d and e		switched places (`e d c` => `d e c`)
-* f and r		switched places (`r f v` => `f r v`)
-* g and t		switched places (`t g b` => `g t b`)
-* h, n, and y	switched places (`y h n` => `h n y`)
-* m, u, and j	switched places (`u j m` => `m u j`)
-* k and i		switched places (`i k ,` => `k i ,`)
-* l and o		switched places (`o l .` => `l o .`)
-* CapsLock and Escape	switched places
+* d and e	switched places (`e d c` => `d e c`)
+* f and r	switched places (`r f v` => `f r v`)
+* g and t	switched places (`t g b` => `g t b`)
+* u and j	switched places (`u j m` => `j u m`)
+* k and i	switched places (`i k ,` => `k i ,`)
+* l and o	switched places (`o l .` => `l o .`)
+* ; and p	switched places (`p ; /` => `; p /`)
+* CapsLock makes DELETE. Shift CapsLock makes ESCAPE!
 
-The first two columns and the special characters are still the same!
+The first two columns and the bottom row is still the same!
