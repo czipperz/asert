@@ -54,4 +54,4 @@ Shf z x c v b n m , . /
 * ; and p	switched places (`p ; /` => `; p /`)
 * CapsLock makes DELETE. Shift CapsLock makes ESCAPE!
 
-The first two columns and the bottom row is still the same!
+The first two and the sixth columns and the bottom row is still the same!
