@@ -1,7 +1,5 @@
 #ASERT Keyboard Layout
 
-**CURRENTLY NOT FUNCTIONAL because of a recent patch to the xserver. Will atempt to fix**
-
 We want to take the QWERTY keyboard and vertically realign it to be more efficient.
 
 Middle row is prioritized over top and top over bottom.
