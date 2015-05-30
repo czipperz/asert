@@ -50,7 +50,7 @@ Shf z x c v b n m , . /
 * d and e	switched places (`e d c` => `d e c`)
 * f and r	switched places (`r f v` => `f r v`)
 * g and t	switched places (`t g b` => `g t b`)
-* u and j	switched places (`u j m` => `j u m`)
+* j and u	switched places (`u j m` => `j u m`)
 * k and i	switched places (`i k ,` => `k i ,`)
 * l and o	switched places (`o l .` => `l o .`)
 * ; and p	switched places (`p ; /` => `; p /`)
