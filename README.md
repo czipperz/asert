@@ -25,7 +25,7 @@ most common goes in the top row. It is explained more below.
 * `asert-pure`	swaps the top and middle rows (includes semicolon)
 * `asert-swap`	swaps the top and middle rows (DOES NOT INCLUDE a & s, q & w, ; & p)
 
-##ASERT
+##ASERT ("standard") explained
 
 ###Frequencies
 
