@@ -4,12 +4,6 @@ We want to take the QWERTY keyboard and vertically realign it to be more efficie
 
 Middle row is prioritized over top and top over bottom.
 
-##Normal Qwerty
-
-	Tab q w e r t y u i o p
-	CpL a s d f g h j k l ;
-	Shf z x c v b n m , . /
-
 ##Groups
 
 Vertical letter groups. We will use these to change things up.
@@ -37,13 +31,23 @@ Most common typed words:
 
 However with the populization of the QWERTY keyboard it makes more sense to keep more keys consistent rather than radically changing it.
 
+###The layout
+
 <pre>
 Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> y <b><i>j</i></b> <b><i>k</i></b> <b><i>l</i></b> <b><i>;</i></b>
-<b><i>DEL</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> h <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
+<b><i>Ctrl</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> h <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
 Shf z x c v b n m , . /
+<b><i>Hyper</b></i>
 </pre>
 
-####So what changed?
+###Normal Qwerty
+
+	Tab q w e r t y u i o p
+	CpL a s d f g h j k l ;
+	Shf z x c v b n m , . /
+	Ctrl
+
+###So what changed?
 
 * d and e	switched places (`e d c` => `d e c`)
 * f and r	switched places (`r f v` => `f r v`)
@@ -52,6 +56,7 @@ Shf z x c v b n m , . /
 * k and i	switched places (`i k ,` => `k i ,`)
 * l and o	switched places (`o l .` => `l o .`)
 * ; and p	switched places (`p ; /` => `; p /`)
-* CapsLock makes DELETE. Shift CapsLock makes ESCAPE!
+* CapsLock functions as Control.
+* Control functions as Hyper, a key not on most modern keyboards, making it very useful for hotkeys.
 
 The first two and the sixth columns and the bottom row is still the same!
