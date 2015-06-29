@@ -36,15 +36,15 @@ However with the populization of the QWERTY keyboard it makes more sense to keep
 <pre>
 Tab q w <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> y <b><i>j</i></b> <b><i>k</i></b> <b><i>l</i></b> <b><i>;</i></b>
 <b><i>Ctrl</i></b> a s <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> h <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
-Shf z x c v b n m , . /
+Shift z x c v b n m , . /
 <b><i>Hyper</b></i>
 </pre>
 
 ###Normal Qwerty
 
 	Tab q w e r t y u i o p
-	CpL a s d f g h j k l ;
-	Shf z x c v b n m , . /
+	Caps a s d f g h j k l ;
+	Shift z x c v b n m , . /
 	Ctrl
 
 ###So what changed?
