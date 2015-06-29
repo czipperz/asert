@@ -42,10 +42,12 @@ Shift z x c v b n m , . /
 
 ###Normal Qwerty
 
-	Tab q w e r t y u i o p
-	Caps a s d f g h j k l ;
-	Shift z x c v b n m , . /
-	Ctrl
+<pre>
+Tab q w <b><i>e</i></b> <b><i>r</i></b> <b><i>t</i></b> y <b><i>u</i></b> <b><i>i</i></b> <b><i>o</i></b> <b><i>p</i></b>
+<b><i>Caps</i></b> a s <b><i>d</i></b> <b><i>f</i></b> <b><i>g</i></b> h <b><i>j</i></b> <b><i>k</i></b> <b><i>l</i></b> <b><i>;</i></b>
+Shift z x c v b n m , . /
+<b><i>Ctrl</i></b>
+</pre>
 
 ###So what changed?
 
